@@ -1,6 +1,13 @@
-h1{font-size: 120px;
+h1{font-size: 200px;
+  font-family: "Aktiv Grotesk", "Arial", sans-serif;
+  font-weight: bold;
+  font-kerning: normal;
+  color: crimson;
 }
 
+.body{
+  background-color: sienna;
+}
 
 
 
