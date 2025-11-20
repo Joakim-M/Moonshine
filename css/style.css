@@ -1,12 +1,22 @@
-h1{font-size: 200px;
+h1{font-size: 180px;
   font-family: "Aktiv Grotesk", "Arial", sans-serif;
   font-weight: bold;
   font-kerning: normal;
-  color: crimson;
+  color: white;
+  opacity: 100%;
+  text-align: center;
+}
+h2{font-size: 40px;
+  font-family: "Big Caslon", "Adobe Caslon Pro", serif;
+  text-align: center;
 }
 
-.body{
+body{
   background-color: sienna;
+}
+.video-container {
+  width: 1200px;      /* set container width */
+  margin: 20px auto; /* center it */
 }
 
 
